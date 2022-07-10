@@ -18,10 +18,10 @@ public class StreamSources {
                 new User(2, "Cristiano Ronaldo", "cr@gmail.com"),
                 new User(2, "Diego Maradona", "dm@gmail.com"),
                 new User(4, "Zinadine Zidane", "zz@gmail.com"),
-                new User(5, "Felipe Flores", "ff@gmail.com"),
+                new User(66, "Felipe Flores", "ff@gmail.com"),
                 new User(6, "Gareth Bale", "gb@gmail.com"),
                 new User(7, "Un Jugador", "uj@gmail.com"),
-                new User(8, "Dos Jugador", "dj@gmail.com"),
+                new User(93, "Dos Jugador", "dj@gmail.com"),
                 new User(9, "Tres Jugador", "tj@gmail.com"),
                 new User(9, "Cuatro Jugador", "cj@gmail.com")
         );
